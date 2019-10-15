@@ -1,0 +1,4 @@
+{
+    "port": "COM16",
+    "programmer": "AVR ISP"
+}
