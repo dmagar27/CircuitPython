@@ -1,5 +1,10 @@
 # CircuitPython
 my CircuitPython assignments
-## CircuitPython Blink
-I promise that i will come back here and add information about each assignment!
-
+## CircuitPython: Bink
+## CircuitPython: Servo
+## CircuitPython: LCD
+## CircuitPython: Photointerrupters
+## CircuitPython: Distance Sensor
+## Classes, Objects, and Modules
+## Hello VS Code
+## FancyLED
