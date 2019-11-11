@@ -1,7 +1,7 @@
 # CircuitPython
 
 My CircuitPython Assignments
-## CircuitPython: Bink
+## CircuitPython: Blink
 ## CircuitPython: Servo
 ## CircuitPython: LCD
 ## CircuitPython: Photointerrupters
