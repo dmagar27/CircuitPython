@@ -1,5 +1,6 @@
 # CircuitPython
-### my CircuitPython assignments
+
+My CircuitPython Assignments
 ## CircuitPython: Bink
 ## CircuitPython: Servo
 ## CircuitPython: LCD
