@@ -22,6 +22,11 @@ Objective of this assignment was to
 ## CircuitPython: LCD
 ### Objective
 ### Pictures
+<img src= "media/lcd button.jpg" width= "300">
+<img src= "media/" width= "300">
+
+
+
 ### Lessons
 
 ## CircuitPython: Photointerrupters
