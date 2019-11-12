@@ -7,7 +7,7 @@ My CircuitPython Assignments
 ## CircuitPython: Blink
 ### Objective
 Objective of this assignment was to 
-### Pictures
+### Picturess
 <img src= "media/blink.png" width= "300">
 
 ### Lessons
