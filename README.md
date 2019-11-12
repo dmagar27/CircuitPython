@@ -12,9 +12,11 @@ Objective of this assignment was to
 
 ### Lessons
 
-## CircuitPython: Servo
+## CircuitPython: Servo touch
 ### Objective
 ### Pictures
+<img src= "media/servo_with_touch_bb.png" width= "300">
+
 ### Lessons
 
 ## CircuitPython: LCD
@@ -32,7 +34,7 @@ Objective of this assignment was to
 ### Pictures
 ### Lessons
 
-## Classes, Objects, and Modules
+## RGB
 ### Objective
 ### Pictures
 ### Lessons
