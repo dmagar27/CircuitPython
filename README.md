@@ -8,6 +8,8 @@ My CircuitPython Assignments
 ### Objective
 Objective of this assignment was to 
 ### Pictures
+<img src= "media/blink.png" width= "300">
+
 ### Lessons
 
 ## CircuitPython: Servo
