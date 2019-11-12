@@ -4,6 +4,7 @@ My CircuitPython Assignments
 
 ## CircuitPython: Blink
 ### Objective
+Objective of this assignment was to 
 ### Pictures
 ### Lessons
 
