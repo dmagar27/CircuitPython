@@ -23,20 +23,21 @@ Objective of this assignment was to
 ### Objective
 ### Pictures
 <img src= "media/lcd button.jpg" width= "300">
-<img src= "media/" width= "300">
-
-
+<img src= "media/lcd.jpg" width= "300">
 
 ### Lessons
 
 ## CircuitPython: Photointerrupters
 ### Objective
 ### Pictures
+<img src= "media/photoint.png" width= "300">
+
 ### Lessons
 
 ## CircuitPython: Distance Sensor
 ### Objective
 ### Pictures
+<img src= "media/" width= "300">
 ### Lessons
 
 ## RGB
