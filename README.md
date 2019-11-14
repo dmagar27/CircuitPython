@@ -37,22 +37,25 @@ Objective of this assignment was to
 ## CircuitPython: Distance Sensor
 ### Objective
 ### Pictures
-<img src= "media/" width= "300">
+<img src= "media/distance sensor.png" width= "300">
 ### Lessons
 
 ## RGB
 ### Objective
 ### Pictures
+<img src= "media/" width= "300">
 ### Lessons
 
 ## Hello VS Code
 ### Objective
 ### Pictures
+<img src= "media/vscode.png" width= "300">
 ### Lessons
 
 ## FancyLED
 ### Objective
 ### Pictures
+<img src= "media/fancyled.png" width= "300">
 ### Lessons
 
 
