@@ -43,7 +43,8 @@ Objective of this assignment was to
 ## RGB
 ### Objective
 ### Pictures
-<img src= "media/" width= "300">
+<img src= "media/rgb.png" width= "300">
+
 ### Lessons
 
 ## Hello VS Code
