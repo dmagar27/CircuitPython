@@ -23,14 +23,17 @@ Objective of this assigment was to make the servo move using touch. There are 2 
 For this assignment I used PWM to control the servo. For the capacitive touch the function touchio was use by importing from the library.
 ## CircuitPython: LCD
 ### Objective
+Purpose of this asignment is to make the lcd display numbers. By pressing a button, the number should go up or down by one.
 ### Pictures
 <img src= "media/lcd button.jpg" width= "300">
 <img src= "media/lcd.jpg" width= "300">
 
 ### Lessons
-
+In this assignment, I learned to use true and false to prevent counting to go up or down by more than one.
 ## CircuitPython: Photointerrupters
 ### Objective
+Purpose of this assignment is to keep track of how many times the photointerrupter has been interrpted within 4 seconds.
+
 ### Pictures
 <img src= "media/photoint.png" width= "300">
 
@@ -38,6 +41,7 @@ For this assignment I used PWM to control the servo. For the capacitive touch th
 
 ## CircuitPython: Distance Sensor
 ### Objective
+
 ### Pictures
 <img src= "media/distance sensor.png" width= "300">
 ### Lessons
